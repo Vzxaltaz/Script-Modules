@@ -13,8 +13,8 @@ local Modules = {
 	},
 	Remotes = {
 		["Mob_Hit"] = "VpfcvszlbIFbschqks/tnlpcd",
-		["Fish_Blob"] = "wgaLtbnVQkrvghmiK/zBcobmii",
-		["Fish_Collect"] = "wgaLtbnVQkrvghmiK/kNmrbpXquyurynzqpxnffentfskdpozgigeh",
+		["Fish_Blob"] = "jmqvFcP/qksbzgttlpjDlLRfr",
+		["Fish_Collect"] = "jmqvFcP/lqsvqAupdYao",
 		["Catching"] = "fuXjmShSrsWuGqfmpiadCrljiwjxgVqjvnygJs/ypjfutLcns",
 	},
 	scriptSettings = {
